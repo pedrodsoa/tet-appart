@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "great-indigo-bubblegum",
-    "slug": "snack-9994a971-8080-47ef-8496-b123017ec840",
+    "name": "aula-tet",
+    "slug": "snack-ec774ed7-86b4-4e75-b43f-744afdf98981",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,6 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
